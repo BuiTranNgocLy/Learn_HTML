@@ -40,5 +40,23 @@
 ![image](https://user-images.githubusercontent.com/88178841/147377611-ea8ee445-5b34-42a0-aa48-0720e3b7e3f7.png)
 ![image](https://user-images.githubusercontent.com/88178841/147377620-0afea5ed-4f9a-4edd-8fee-6fb34d481733.png)
 
+## `Password Input`
+
+![image](https://user-images.githubusercontent.com/88178841/147410171-0135a96b-c5f9-4a28-880d-0168993ee5b9.png)
+![image](https://user-images.githubusercontent.com/88178841/147411321-eb2ab821-a912-442d-84b2-15d46e916971.png)
+
+## `Number Input`
+
+![image](https://user-images.githubusercontent.com/88178841/147411364-b7cb4dc8-ed4a-43fc-b32e-cd77318aaef4.png)
+![image](https://user-images.githubusercontent.com/88178841/147411371-85292101-f21f-49d7-8431-cd0936378efc.png)
+
+## `Range Input`
+- thiết lập `type` để `"range"` mà tạo ra một thanh trượt.
+- Đặt giá trị `tối thiểu` và `tối đa` của thanh trượt, gán giá trị cho thuộc tính `min` và `max` của `<input>`
+- Linh hoạt của thanh trượt bằng cách gán cho `step` thuộc tính `một giá trị`.
+
+![image](https://user-images.githubusercontent.com/88178841/147413196-0e46b531-0035-45b0-9d8e-8d33dc95e845.png)
+![image](https://user-images.githubusercontent.com/88178841/147413201-c976b1ea-e8c8-4043-8771-67514d5f2451.png)
+
 ## `The Name Attribute for <input>`
 - Each `input field` `ust have` a `name attribute` to be submitted.
