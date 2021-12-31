@@ -58,5 +58,20 @@
 ![image](https://user-images.githubusercontent.com/88178841/147413196-0e46b531-0035-45b0-9d8e-8d33dc95e845.png)
 ![image](https://user-images.githubusercontent.com/88178841/147413201-c976b1ea-e8c8-4043-8771-67514d5f2451.png)
 
+## `Dropdown list`
+- Phần tử `<select>` để tạo danh sách thả xuống.
+- Tạo danh sách thả xuống, thêm nhiều `<option>` phần tử, mỗi phần tử có 1 `<value>` thuộc tính, được sử dụng khi `<form>` được gửi
+- Theo mặc định chỉ 1 trong các tùy chọn có thể được chọn
+
+![image](https://user-images.githubusercontent.com/88178841/147813120-e0a87855-57a9-4cad-a5f6-bbbc1b94bd94.png)
+![image](https://user-images.githubusercontent.com/88178841/147813193-cc1d3e36-4e33-4790-b2df-e3747e1648d9.png)
+![image](https://user-images.githubusercontent.com/88178841/147813197-72e001c8-891b-4698-80ef-b04d60f2dbe9.png)
+
+## `Datalist`
+- Danh sách thả xuống nhưng người dùng có thể nhập và lọc các tùy chọn từ `<datalist>`
+- Ví dụ:
+
+![image](https://user-images.githubusercontent.com/88178841/147814757-67271f1f-6388-486f-9c1d-33cfdd2ffafd.png)
+
 ## `The Name Attribute for <input>`
 - Each `input field` `ust have` a `name attribute` to be submitted.
